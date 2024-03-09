@@ -59,6 +59,7 @@ word-break: break-all;
 color: white;
 
 }
+
 #contain{
 background-color: orange;
 color: white;
@@ -148,7 +149,7 @@ height:2px;
 }
 #mean{
 width: 50px;
-length:
+
 
 }
 
@@ -157,18 +158,48 @@ background-image:" pictures/one.webp ";
 
 }
 
-#meter{
-height: ;
 
-}
+
+
 #major{
 width: 40px;
 height: 20px;
 
 }
+#new{
+  display: flex;
+  position: relative;
+  justify-content: left;
+  gap: 50px;
+  height: 300px;
+
+}
+
+#all{
+gap: 80px;
+}
+#ours{
+justify-content: center;
+position: relative;
+display: flex;
+gap: 50px;
+
+}
 
 
-@media all  and (max-width:500px){body}
+
+
+
+
+
+
+
+
+
+
+
+
+@media all  and (max-width:500px){(body)}
 
 
 
